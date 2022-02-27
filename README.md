@@ -16,7 +16,7 @@
 ### 测评信息，随缘更新
 
 <div class="gb-container gb-container-4b3ebfac"><div class="gb-inside-container">
-<h1 class="gb-headline gb-headline-293e93ff gb-headline-text">【安卓VPN推荐】2022年安卓翻墙好用的VPN|手机平板翻墙</h1>
+<h1 class="gb-headline gb-headline-293e93ff gb-headline-text">【安卓梯子推荐】2022年安卓翻墙好用的梯子|华为、小米、荣耀、vivo、oppo手机平板翻墙</h1>
 <div class="gb-container gb-container-b7701407 inline-post-meta-area"><div class="gb-inside-container">
 </div></div>
 </div><div class="gb-shapes"><div class="gb-shape gb-shape-1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" preserveAspectRatio="none"><path d="M1200 100H0V0l400 77.2L1200 0z" /></svg></div></div></div>
