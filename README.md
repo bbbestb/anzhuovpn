@@ -20,12 +20,12 @@
 
 |  安卓手机梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
-| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxian227&data2=anzhuovpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxian227/anzhuovpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxian227&data2=anzhuovpn) |
-| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=anzhuovpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian227&aff_sub2=anzhuovpn) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=anzhuovpn) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=anzhuovpn) | [备用地址2](https://www.linkev.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=anzhuovpn) |
+| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitwuxian227&data2=anzhuovpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxian227/anzhuovpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitwuxian227&data2=anzhuovpn) |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxian227&aff_click_id=anzhuovpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitwuxian227&aff_sub2=anzhuovpn) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=anzhuovpn) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2gitwuxian227&data1=anzhuovpn) | [备用地址2](https://www.linkev.com/?a_fid=tizi_vpn&chan=2gitwuxian227&data1=anzhuovpn) |
 | Panda梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
-| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=anzhuovpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=anzhuovpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxian227&data2=anzhuovpn) |
-| Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=anzhuovpn) | - | - |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2gitwuxian227&data2=anzhuovpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2gitwuxian227&data2=anzhuovpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxian227&data2=anzhuovpn) |
+| Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=2gitwuxian227&data2=anzhuovpn) | - | - |
 
 
 ---
@@ -51,7 +51,7 @@
   
 <p>得益于安卓系统的开放性，在安卓手机上翻墙和在电脑、平板上一样简单。但问题是要绕过防火长城比以前更困难，想找到能在中国使用的安卓VPN并不容易。本文将介绍安卓翻墙教程，以及推荐好用的安卓VPN。</p>
 <p>虽然在安卓上翻墙有多种方法，但是如果你使用VPN只是为了方便工作和生活，那么最推荐的方式还是使用国外付费VPN。如果你不想读完整篇文章，可以选择以下我们推荐的安卓VPN：</p>
-<div class="purple-bar-back"><ul><li>1.<a href="https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=anzhuovpn" target="_blank" rel="noopener">ExpressVPN</a> —— 在中国翻墙稳定快速，且不限带宽的安卓VPN首选。</li><li>2.<a href="https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=anzhuovpn" target="_blank" rel="noreferrer noopener">PureVPN</a> —— 价格便宜，服务器节点多，安卓APP客户端连接快。</li><li>3.<a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxian227&data2=anzhuovpn" target="_blank" rel="noreferrer noopener">Surfshark</a> —— 不限设备数量，可多人共享账号，性价比高。</li><li>4.<a href="https://www.pantoto.xyz/r/22216799" target="_blank" rel="noreferrer noopener">PandaVPN</a> —— 华人团队开发，全中文支持，安卓VPN用户体验友好。</li><li>5.<a href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=anzhuovpn" target="_blank" rel="noreferrer noopener">NordVPN</a> —— 知名度高信用好，专业混淆服务器，可绕过防火长城。</li></ul></div>
+<div class="purple-bar-back"><ul><li>1.<a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=anzhuovpn" target="_blank" rel="noopener">ExpressVPN</a> —— 在中国翻墙稳定快速，且不限带宽的安卓VPN首选。</li><li>2.<a href="https://billing.purevpn.com/aff.php?aff=42611&data1=2gitwuxian227&data2=anzhuovpn" target="_blank" rel="noreferrer noopener">PureVPN</a> —— 价格便宜，服务器节点多，安卓APP客户端连接快。</li><li>3.<a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=2gitwuxian227&data2=anzhuovpn" target="_blank" rel="noreferrer noopener">Surfshark</a> —— 不限设备数量，可多人共享账号，性价比高。</li><li>4.<a href="https://www.pantoto.xyz/r/22216799" target="_blank" rel="noreferrer noopener">PandaVPN</a> —— 华人团队开发，全中文支持，安卓VPN用户体验友好。</li><li>5.<a href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxian227&aff_click_id=anzhuovpn" target="_blank" rel="noreferrer noopener">NordVPN</a> —— 知名度高信用好，专业混淆服务器，可绕过防火长城。</li></ul></div>
 <p>我们不推荐国内VPN的原因是，在中国出售VPN翻墙软件是违法行为。因此存在很多不确定的风险，比如充了钱就无法使用。有些甚至是钓鱼VPN，专门用于收集你的上网浏览数据。</p>
 <p>所以最安全的方式还是使用国外VPN，它们不受中国大陆的环境限制，因此也就不存在跑路喝茶的问题。并且大多数国外付费VPN都承诺30天退款保证，即便在中国不能翻墙也可以申请退款。</p>
 <p>要知道要绕过防火长城已经不像原来那样简单，需要在原有的VPN协议基础上增加混淆，然后伪装流量才能绕过深包检测。这背后就需要有强大的技术支撑，经常升级安卓VPN软件和协议。并且对于手机和<a href="/pc-vpn/">电脑VPN</a>也要有良好的兼容性。</p>
@@ -60,7 +60,7 @@
 <div class="purple-bar-back"><ul><li><strong>翻墙稳定</strong>：要绕过防火长城需要有丰富的技术经验，传统OpenVPN、IKev2、L2TP协议已经能被防火长城检测到。需要VPN服务商在此基础上伪装流量，开发更加稳定翻墙协议。国外有一些注重中国市场的VPN服务商，为中国用户提供了独特的翻墙功能。</li><li><strong>服务器多</strong>：日常科学上网用的最多的还是香港、日本、韩国等服务器，因为这些IP节点距离中国大陆近，可以提供更快翻墙体验。但是在特殊时期，封杀IP比较多，这时候全球备用节点可以临时翻墙，并且支持游戏、P2P文件共享和种子下载。</li><li><strong>支持多种设备</strong>：大多数VPN都不只提供安卓VPN，对于Windows电脑、Mac/Linux等操作系统也提供良好的VPN软件支持。并且设计美观，用户体验友好，只需选择服务器就能连接VPN。提供的高级功能也能满足用户独特的手机翻墙需求。</li><li><strong>不限带宽速度快</strong>：只有快速的服务器才能用来观看视频，不管是翻墙观看YouTube视频，还是解锁Netflix、Amazon Prime Video、Disney+等国外流媒体。都要支持高清视频播放，不要老是中断、缓冲。对于跨服玩游戏来说，手机VPN的速度尤其重要。</li><li><strong>售后保障</strong>：国外VPN大多提供30天退款保证，即便遇到VPN连不上、速度慢等问题，都可以在试用期内联系在线客服退款。而国内VPN、个人机场都是不提供退款的，因此很可能踩坑。</li></ul></div>
 <h2 id="最佳安卓手机vpn推荐">最佳安卓手机VPN推荐</h2>
 <p>以下VPN在安卓上运行良好，还支持电脑、手机、平板等多种常见设备，在中国可以稳定使用，在我们的<a href="/best-vpn-china/">VPN推荐</a>中名列前茅。提供大量的服务器，可以满足看视频、玩游戏和种子下载等各种需求。</p>
-<h3 id="1-expressvpn-翻墙首选安卓vpn">1.<a href="https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=anzhuovpn" target="_blank" rel="noopener">ExpressVPN</a> —— 翻墙首选安卓VPN</h3>
+<h3 id="1-expressvpn-翻墙首选安卓vpn">1.<a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=anzhuovpn" target="_blank" rel="noopener">ExpressVPN</a> —— 翻墙首选安卓VPN</h3>
 <p>ExpressVPN因其翻墙稳定而为人熟知，数十年的技术沉淀，积累了与防火长城抗争的经验，是安卓翻墙首选的VPN。</p>
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="393" src="https://qiangup.com/wp-content/uploads/2021/12/expressvpn-homepage.jpg" alt="expressvpn官网" class="wp-image-2360" srcset="https://qiangup.com/wp-content/uploads/2021/12/expressvpn-homepage.jpg 800w, https://qiangup.com/wp-content/uploads/2021/12/expressvpn-homepage-300x147.jpg 300w, https://qiangup.com/wp-content/uploads/2021/12/expressvpn-homepage-768x377.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>支持超过20十种设备，而不仅仅是安卓手机。比如常用的Windows、Mac、iOS、Android、Linux等操作系统，以及Chrome、FireFox、Safari浏览器扩展插件。</p>
@@ -71,10 +71,10 @@
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="311" src="https://qiangup.com/wp-content/uploads/2022/01/expressvpn-price.jpg" alt="expressvpn价格" class="wp-image-2574" srcset="https://qiangup.com/wp-content/uploads/2022/01/expressvpn-price.jpg 800w, https://qiangup.com/wp-content/uploads/2022/01/expressvpn-price-300x117.jpg 300w, https://qiangup.com/wp-content/uploads/2022/01/expressvpn-price-768x299.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>ExpressVPN价格算不上便宜，但是它提供的速度、稳定性，已经物超所值。通过以下ExpressVPN优惠链接可以获得买一年送3个月的免费使用时长，算下来每月只需$6.67。30天退款保证可以让你充分<a href="/free-vpn/">试用VPN</a>的功能，不满意可全额退款。</p>
 <div class="wp-container-6218d7fbaba38 wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=anzhuovpn" style="border-radius:30px" target="_blank" rel="noopener">获取ExpressVPN优惠</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian227&subId2=anzhuovpn" style="border-radius:30px" target="_blank" rel="noopener">获取ExpressVPN优惠</a></div>
 </div>
 <hr>
-<h3 id="2-surfshark-不限设备数量的安卓vpn">2.<a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxian227&data2=anzhuovpn" target="_blank" rel="noreferrer noopener">Surfshark</a> —— 不限设备数量的安卓VPN</h3>
+<h3 id="2-surfshark-不限设备数量的安卓vpn">2.<a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=2gitwuxian227&data2=anzhuovpn" target="_blank" rel="noreferrer noopener">Surfshark</a> —— 不限设备数量的安卓VPN</h3>
 <p>Surfshark是一款年轻的VPN，但是独特的翻墙模式得到了中国用户的认可，不限设备数量可以和朋友共享账号。</p>
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="394" src="https://qiangup.com/wp-content/uploads/2021/12/surfshark-homepage.jpg" alt="surfshark官网" class="wp-image-2364" srcset="https://qiangup.com/wp-content/uploads/2021/12/surfshark-homepage.jpg 800w, https://qiangup.com/wp-content/uploads/2021/12/surfshark-homepage-300x148.jpg 300w, https://qiangup.com/wp-content/uploads/2021/12/surfshark-homepage-768x378.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>Camouflage翻墙模式是Surfshark能在中国翻墙的关键，它采用了伪装流量的技术，可以让防火长城无法检测到你正在使用VPN。</p>
@@ -84,10 +84,10 @@
 <div class="wp-block-image"><figure class="aligncenter size-full"><img src="https://qiangup.com/wp-content/uploads/2022/01/surfshark-price.jpg" alt="surfshark价格" class="wp-image-2578" /></figure></div>
 <p>Surfshark价格比较便宜，选择24个月套餐，每月只需$2.49，在黑五期间还有超值优惠。支持Visa信用卡、PayPal等付款方式，通过香港IP地址访问官网还可以通过支付宝付款。</p>
 <div class="wp-container-6218d7fbabdef wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxian227&data2=anzhuovpn" style="border-radius:30px" target="_blank" rel="noopener">获取Surfshark优惠</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=2gitwuxian227&data2=anzhuovpn" style="border-radius:30px" target="_blank" rel="noopener">获取Surfshark优惠</a></div>
 </div>
 <hr>
-<h3 id="3-purevpn-便宜性价比高的手机vpn">3.<a href="https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=anzhuovpn" target="_blank" rel="noreferrer noopener">PureVPN</a> —— 便宜性价比高的手机VPN</h3>
+<h3 id="3-purevpn-便宜性价比高的手机vpn">3.<a href="https://billing.purevpn.com/aff.php?aff=42611&data1=2gitwuxian227&data2=anzhuovpn" target="_blank" rel="noreferrer noopener">PureVPN</a> —— 便宜性价比高的手机VPN</h3>
 <p>PureVPN是老牌知名的VPN服务器，在中国可以稳定翻墙，安卓VPN客户端连接快速，还是一款价格<a href="/cheap-vpn/">便宜的VPN</a>。</p>
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="390" src="https://qiangup.com/wp-content/uploads/2021/12/purevpn-homepage.jpg" alt="purevpn官网" class="wp-image-2363" srcset="https://qiangup.com/wp-content/uploads/2021/12/purevpn-homepage.jpg 800w, https://qiangup.com/wp-content/uploads/2021/12/purevpn-homepage-300x146.jpg 300w, https://qiangup.com/wp-content/uploads/2021/12/purevpn-homepage-768x374.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>全球6500多台高速服务器覆盖78个国家/地区，台湾IP节点速度最快，另外香港、日本等中国大陆近距离服务器速度也不错，用来访问Facebook、Twitter、Instagram等社交媒体都是不错的选择。</p>
@@ -97,24 +97,11 @@
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="250" height="252" src="https://qiangup.com/wp-content/uploads/2022/01/purevpn-price.jpg" alt="purevpn价格" class="wp-image-2586" srcset="https://qiangup.com/wp-content/uploads/2022/01/purevpn-price.jpg 250w, https://qiangup.com/wp-content/uploads/2022/01/purevpn-price-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" /></figure></div>
 <p>直接通过PureVPN官网购买价格较高，使用我们提供的PureVPN优惠链接，可以获得每月$1.99的优惠，黑五、圣诞期间还有隐藏的超值优惠。可以通过Visa信用卡、银联和PayPal付款，并提供31天退款保证。</p>
 <div class="wp-container-6218d7fbac1a3 wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=anzhuovpn" style="border-radius:30px" target="_blank" rel="noopener">获取PureVPN优惠</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://billing.purevpn.com/aff.php?aff=42611&data1=2gitwuxian227&data2=anzhuovpn" style="border-radius:30px" target="_blank" rel="noopener">获取PureVPN优惠</a></div>
 </div>
+
 <hr>
-<h3 id="4-pandavpn-中国安卓翻墙软件">4.<a href="https://www.pantoto.xyz/r/22216799" target="_blank" rel="noreferrer noopener">PandaVPN</a> —— 中国安卓翻墙软件</h3>
-<p>PandaVPN又被称做熊猫VPN，由华人团队开发，诞生之初就是专为解决中国翻墙问题，提供更多符合中国用户的功能和服务。</p>
-<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="376" src="https://qiangup.com/wp-content/uploads/2021/12/pandavpn-homepage.jpg" alt="pandavpn官网" class="wp-image-2362" srcset="https://qiangup.com/wp-content/uploads/2021/12/pandavpn-homepage.jpg 800w, https://qiangup.com/wp-content/uploads/2021/12/pandavpn-homepage-300x141.jpg 300w, https://qiangup.com/wp-content/uploads/2021/12/pandavpn-homepage-768x361.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
-<p>熊猫VPN官网可以直接下载安卓VPN APK，在Google Play中可能下载到盗版熊猫VPN。提供<a href="/iphone-vpn/">苹果VPN</a>安装下载教程和美区Apple ID。还支持Windows电脑PC端、Mac、Linux以及智能电视。</p>
-<p>安卓VPN提供的智能模式可以一键翻墙，全局模式可以提供电脑和手机端全局翻墙，PAC模式可以自定义国外内网站从而实现分流。高级用户还可以设置本地IP和端口号，代理其他应用程序。</p>
-<div class="blue-bar-back"><p>PandaVPN在全球拥有3000多台服务器，其中香港、台湾、日本、美国等中国大陆近距离服务器占比较大，满足中国用户快速访问Google、YouTube、Facebook的需求。</p></div>
-<p>根据解锁不同的国外流媒体Netflix、Disney+、BBC iPlayer提供不同的线路。另外PandaVPN还提供适合游戏、Torrent种子下载的专用服务器，以及特殊时期备用的IP节点。</p>
-<p>所有服务器都不限带宽和流量，使用具有专利的加速技术和超快的IPLC专线，PandaVPN的安卓VPN可以提供快速低延迟的科学上网体验。连接数据通过ECC加密，不记录用户浏览记录，保护用户隐私安全。</p>
-<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="290" src="https://qiangup.com/wp-content/uploads/2022/01/pandavpn-price.jpg" alt="pandavpn价格" class="wp-image-2576" srcset="https://qiangup.com/wp-content/uploads/2022/01/pandavpn-price.jpg 800w, https://qiangup.com/wp-content/uploads/2022/01/pandavpn-price-300x109.jpg 300w, https://qiangup.com/wp-content/uploads/2022/01/pandavpn-price-768x278.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
-<p>PandVPN提供4种套餐时长，其中12个月套餐最划算，每月只需$2.49。一个账号支持3台设备同时登陆，如需更多设备可以付费定制。支持PayPal、银联和信用卡付款，有时还支持支付宝。</p>
-<div class="wp-container-6218d7fbac525 wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.pantoto.xyz/r/22216799" style="border-radius:30px" target="_blank" rel="noopener">获取PandaVPN优惠</a></div>
-</div>
-<hr>
-<h3 id="5-nordvpn-安全性高的安卓vpn">5.<a href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=anzhuovpn" target="_blank" rel="noreferrer noopener">NordVPN</a> —— 安全性高的安卓VPN</h3>
+<h3 id="5-nordvpn-安全性高的安卓vpn">5.<a href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxian227&aff_click_id=anzhuovpn" target="_blank" rel="noreferrer noopener">NordVPN</a> —— 安全性高的安卓VPN</h3>
 <p>NordVPN拥有业内领先的VPN技术，独特的协议和混淆服务器不仅可以用做翻墙软件，还具有快速安全的连接速度。</p>
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="393" src="https://qiangup.com/wp-content/uploads/2021/12/nordvpn-homepage.jpg" alt="nordvpn官网" class="wp-image-2361" srcset="https://qiangup.com/wp-content/uploads/2021/12/nordvpn-homepage.jpg 800w, https://qiangup.com/wp-content/uploads/2021/12/nordvpn-homepage-300x147.jpg 300w, https://qiangup.com/wp-content/uploads/2021/12/nordvpn-homepage-768x377.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>NordVPN提供的安卓VPN简单易用，服务器地图设计也比较直观，兼容Android6.0以及更高版本。还支持在电脑、游戏机、智能电视以及路由器上安装VPN。拆分隧道可以分流网站和应用程序，终止开关则可以防止数据泄露。</p>
@@ -124,7 +111,7 @@
 <div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="https://qiangup.com/wp-content/uploads/2022/01/nordvpn-price.jpg" alt="nordvpn价格" class="wp-image-2575" width="800" height="233" srcset="https://qiangup.com/wp-content/uploads/2022/01/nordvpn-price.jpg 800w, https://qiangup.com/wp-content/uploads/2022/01/nordvpn-price-300x87.jpg 300w, https://qiangup.com/wp-content/uploads/2022/01/nordvpn-price-768x224.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>每年黑五、圣诞节NordVPN都有优惠折扣，推荐在活动期间购买。平时的包年价格是$3.71左右，价格不是最便宜的但物有所值。支持银联和信用卡付款，在结算页面可以取消购买NordPass附加功能。</p>
 <div class="wp-container-6218d7fbac89a wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=anzhuovpn" style="border-radius:30px" target="_blank" rel="noopener">获取NordVPN优惠</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxian227&aff_click_id=anzhuovpn" style="border-radius:30px" target="_blank" rel="noopener">获取NordVPN优惠</a></div>
 </div>
 <hr>
 <h2 id="其他安卓翻墙方法">其他安卓翻墙方法</h2>
